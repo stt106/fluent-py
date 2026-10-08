@@ -1,5 +1,0 @@
-{
-    "python.defaultInterpreterPath": "/Users/tiantang/.pyenv/versions/3.13.0/bin/python",
-    "python.analysis.languageServerMode": "default",
-    "python-envs.defaultEnvManager": "ms-python.python:pyenv"
-}
